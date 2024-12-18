@@ -2,7 +2,7 @@
 
 This is a code for ABC3: Active Bayesian Causal Inference with Cohn Criteria in Randomized Experiments.
 
-[Paper]()
+[Paper](https://arxiv.org/abs/2412.11104)
 
 ## Abstract
 
